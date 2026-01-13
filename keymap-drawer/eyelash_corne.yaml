@@ -45,7 +45,7 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - LGUI
   - {t: '$$mdi:keyboard-space$$', h: number}
-  - {t: '$$mdi:apple-keyboard-control$$', h: nav}
+  - {t: nav, h: toggle}
   - {t: '$$mdi:keyboard-return$$', h: nav}
   - {t: '$$mdi:keyboard-space$$', h: symbol}
   - $$mdi:apple-keyboard-option$$
@@ -192,8 +192,8 @@ layers:
   - PAUSE BREAK
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
