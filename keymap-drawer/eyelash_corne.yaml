@@ -46,9 +46,9 @@ layers:
   - LGUI
   - {t: '$$mdi:keyboard-space$$', h: number}
   - $$mdi:apple-keyboard-control$$
-  - {t: nav, h: toggle}
+  - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-option$$'}
   - {t: '$$mdi:keyboard-space$$', h: symbol}
-  - $$mdi:apple-keyboard-option$$
+  - {t: nav, h: toggle}
   number:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
